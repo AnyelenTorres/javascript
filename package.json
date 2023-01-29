@@ -1,0 +1,12 @@
+{
+"name":"cuentabancopopular",
+"version":"1.0.0",
+"description":"Gestion de cuentas corrientes del banco popular",
+"main":"index.js",
+"scripts": {
+    "test": ""
+},
+"author": "Curso alura",
+"license": "ISC",
+"type": "module"
+}
